@@ -1,0 +1,19 @@
+The following journal entry is a series of questions I am responding to regarding the attached project.
+
+Q: Summarize the project and what problem it was solving
+A: For ths project I had to write a code that read the contents of a txt file which was a list of cities and average temps. It would also convert those temps from fahrenheit and convert them into celsius. The problem resolved is a small one but it automatically converts the temps so the user will not have to guess and displays both numbers incase the user ever needs the information.
+
+Q: What did you do particulary well?
+A: This was the first program in this course I got to successfully execute. 
+
+Q: Where could you enhanse your code? How would these improvements make your code more efficent, secure and so on?
+A: I could have added code to trim the decimals down on the celicus to either one or two numbers after the decimal. It would give the output a cleaner and professional look.
+
+Q: Which pieces of code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network.
+A: I struggled on two parts of this code. First was the conversion I knew the formula but getting it to convert into code was a challenge. The other part was the file closing. My file was closing too early and It would not read it again for the second loop to convert. Thorugh an amazing tutor She helped me find out that my close command was closing the file too early and it needed to be moved to the end of the second loop.
+
+Q: What skills from this priject will be particulary transferable to other projects or course work?
+A: Thanks to this project I was able to add this setup to my final project where I had to write code to scan a list from a readme txt file of grocery items. 
+
+Q: How did you make this program maintainable, readable, and adaptable?
+A: This is a fairly simple code that can me modified to read any list of things and output them on a text file. I would say the same for my conversion as well. If someone needed to convert using a different formula you just have to swap out a small piece instead of rewriting anything new. 
